@@ -6621,6 +6621,18 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.2"
 
+"tb-dropfile-lib@https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.0.1/tb-dropfile-lib-0.0.1.tgz":
+  version "0.0.1"
+  resolved "https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.0.1/tb-dropfile-lib-0.0.1.tgz#1615430f022c2195594a52775b6b72dda58421c0"
+  dependencies:
+    tslib "^1.9.0"
+
+"tb-geoloc-lib@https://github.com/steph-del/tb-geoloc-lib/releases/download/v0.1.1/tb-geoloc-lib-0.1.1.tgz":
+  version "0.1.1"
+  resolved "https://github.com/steph-del/tb-geoloc-lib/releases/download/v0.1.1/tb-geoloc-lib-0.1.1.tgz#70b8c60098ad82791bb46c974b044d040b1c365b"
+  dependencies:
+    tslib "^1.9.0"
+
 through2@^2.0.0:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/through2/-/through2-2.0.5.tgz#01c1e39eb31d07cb7d03a96a70823260b23132cd"
