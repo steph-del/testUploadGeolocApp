@@ -6686,9 +6686,9 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.2"
 
-"tb-dropfile-lib@https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.0.1/tb-dropfile-lib-0.0.1.tgz":
-  version "0.0.1"
-  resolved "https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.0.1/tb-dropfile-lib-0.0.1.tgz#1615430f022c2195594a52775b6b72dda58421c0"
+"tb-dropfile-lib@https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.1.0/tb-dropfile-lib-0.1.0.tgz":
+  version "0.1.0"
+  resolved "https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.1.0/tb-dropfile-lib-0.1.0.tgz#ca922a0234c85b5f38e67d3c7bd776f44ab8de91"
   dependencies:
     tslib "^1.9.0"
 

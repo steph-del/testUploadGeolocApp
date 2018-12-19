@@ -31,7 +31,7 @@
     "leaflet": "1.3",
     "leaflet-draw": "0.4",
     "rxjs": "^6.0.0",
-    "tb-dropfile-lib": "https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.0.1/tb-dropfile-lib-0.0.1.tgz",
+    "tb-dropfile-lib": "https://github.com/steph-del/tb-dropfile-lib/releases/download/v0.1.0/tb-dropfile-lib-0.1.0.tgz",
     "tb-geoloc-lib": "https://github.com/steph-del/tb-geoloc-lib/releases/download/v0.1.1/tb-geoloc-lib-0.1.1.tgz",
     "zone.js": "^0.8.26"
   },
