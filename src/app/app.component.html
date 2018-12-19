@@ -1,2 +1,7 @@
-<tb-dropfile-box></tb-dropfile-box>
-<tb-geoloc-map></tb-geoloc-map>
+<tb-dropfile-box
+  (geolocatedPhotoLatLng)="geolocatedPhotoData($event)"
+></tb-dropfile-box>
+
+<tb-geoloc-map
+  [geolocatedPhotoLatLng]= "geolocatedPhotos"
+></tb-geoloc-map>
